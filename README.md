@@ -1,10 +1,12 @@
 <div align="center">
 
-# 🚀 Pembelajaran PHP XI RPL
+# Pembelajaran PHP XI RPL
 
-<img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Class-XI%20RPL-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Semester-2-success?style=for-the-badge">
+![PHP](https://img.shields.io/badge/PHP-Learning%20Journey-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![XI RPL](https://img.shields.io/badge/Class-XI%20RPL-success?style=for-the-badge)
+![Semester 2](https://img.shields.io/badge/Semester-2-orange?style=for-the-badge)
+![Pak Faruq](https://img.shields.io/badge/Teacher-Pak%20Faruq-red?style=for-the-badge)
+![Junior](https://img.shields.io/badge/Author-Junior-blue?style=for-the-badge)
 
 ### 📚 Kumpulan Materi, Latihan, Tugas, dan Eksperimen PHP
 
@@ -36,23 +38,23 @@ Repository ini juga menjadi dokumentasi perkembangan kemampuan saya dalam memaha
 
 ---
 
-## 🎯 Tujuan Repository
+## Tujuan Repository
 
 Repository ini dibuat untuk:
 
-✅ Menyimpan hasil pembelajaran PHP selama satu semester
+-> Menyimpan hasil pembelajaran PHP selama satu semester
 
-✅ Menjadi arsip materi yang dapat dipelajari kembali di masa depan
+-> Menjadi arsip materi yang dapat dipelajari kembali di masa depan
 
-✅ Mendokumentasikan perkembangan kemampuan programming
+-> Mendokumentasikan perkembangan kemampuan programming
 
-✅ Menjadi referensi bagi siswa lain yang sedang belajar PHP
+-> Menjadi referensi bagi siswa lain yang sedang belajar PHP
 
-✅ Menjadi bagian dari portfolio pembelajaran di bidang Rekayasa Perangkat Lunak (RPL)
+-> Menjadi bagian dari portfolio pembelajaran di bidang Rekayasa Perangkat Lunak (RPL)
 
 ---
 
-## 📖 Materi yang Dipelajari
+## Materi yang Dipelajari
 
 | Materi | Status |
 |----------|----------|
