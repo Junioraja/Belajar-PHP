@@ -1,6 +1,6 @@
 <?php
 
-class Transfer extends Pembayaran {
+class TransferBank extends Pembayaran {
     private $nomorRekening;
     
     public function __construct($total, $noRek){

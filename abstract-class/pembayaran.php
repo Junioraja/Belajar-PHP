@@ -13,3 +13,5 @@ abstract  class Pembayaran {
 
     abstract public function prosesTransaksi();
 }
+
+?>
